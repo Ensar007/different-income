@@ -20,9 +20,8 @@ Syftet med detta projekt är att:
 
 Datasetet består av flera kolumner som representerar olika attribut för varje individ:
 Datasetet kan innehålla kolumner som:
-1. **ID**: Unik identifierare för varje individ (t.ex., användar-ID)
-2. **Inkomstkategori**: Om individen tjänar "Mer än 50 000", "Mindre än 50 000" eller "Exakt 50 000".
-3. **Arbete**: Vad de arbetar med samt hur många timmar de arbetar.
+1. **Inkomstkategori**: Om individen tjänar "Mer än 50 000", "Mindre än 50 000" eller "Exakt 50 000".
+2. **Arbete**: Vad de arbetar med samt hur många timmar de arbetar.
 
 ## Visualiseringar
 
