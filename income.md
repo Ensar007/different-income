@@ -7,7 +7,7 @@ Detta projekt syftar till att analysera och visualisera ett dataset som beskrive
 - Mindre än 50 000 dollar per år
 - Exakt 50 000 dollar per år
 
-Projektet har skapats för att hjälpa användare att analysera inkomstdata på ett enkelt och intuitivt sätt. Genom att använda denna kod kan användare själva göra analyser och skapa visualiseringar av inkomstfördelningar för olika länder eller grupper, inte bara för USA.
+Projektet har skapats för att hjälpa användare att analysera inkomstdata på ett enkelt och intuitivt sätt. Genom att använda den nya koden kan användare själva göra analyser och skapa visualiseringar av inkomstfördelningar för olika länder eller grupper, inte bara för USA.
 
 ## Syfte
 
@@ -19,15 +19,10 @@ Syftet med detta projekt är att:
 ## Struktur för datasetet
 
 Datasetet består av flera kolumner som representerar olika attribut för varje individ:
-- **Inkomst:** Den årliga inkomsten för varje individ.
-- **Land:** Landet som individen tillhör (exempelvis "USA", "Sverige", "Tyskland" etc.).
-- **Inkomstkategori:** Om individen tjänar "Mer än 50 000", "Mindre än 50 000" eller "Exakt 50 000".
-
 Datasetet kan innehålla kolumner som:
 1. **ID**: Unik identifierare för varje individ (t.ex., användar-ID)
-2. **Land**: Landet där individen bor eller är medborgare.
-3. **Inkomst**: Den årliga inkomsten (i dollar eller lokal valuta beroende på datasetet).
-4. **Inkomstkategori**: Om individen tjänar "Mer än 50 000", "Mindre än 50 000" eller "Exakt 50 000".
+2. **Inkomstkategori**: Om individen tjänar "Mer än 50 000", "Mindre än 50 000" eller "Exakt 50 000".
+3. **Arbete**: Vad de arbetar med samt hur många timmar de arbetar.
 
 ## Visualiseringar
 
